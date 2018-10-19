@@ -1,0 +1,14 @@
+1. La parte del html con id formulario
+2. Cancela el evento del html por default del formulario
+3. Cada posicion es uno de los campos de entrada(input) del formulario con id bitacora, excepto por la posicion 0 que muestra el fieldset
+4. Tr Es una unica fila que se crea para ser añadida a la tabla, Td es el contenido de cada columna de una misma fila la cual fue creada previamente
+5. Cadena en formato de texto el cual es un elemento en especifico de un campo de entrada(input) de bitacora
+6. Todos los valores anteriores de la tabla, con la nueva bitacora añadida
+7. Guarda una nueva entrada a la tabla con nombre de clase "tabla-btc"
+8. Localiza al primer elemento hijo del elemento padre
+9. La tabla será vaciada 
+10. El contenido de texto que se encuentra en la posicion i del elemento llamado item.
+11. Se obtiene todo el tbody con la clase "tabla-btc"
+12. El numero de elementos hijos de un determinado padre.
+13. Muestra los datos en los campos respectivos en el formulario cuando se hace un click en una fila de la tabla
+14. Llena una fila nueva de la tabla de los datos que esten contenidos en el formulario.
